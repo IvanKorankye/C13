@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Class9"
+		},
+		{
+			"path": "..\\..\\Trex_Stage_0-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project-template-feed-the-rabbit-main"
+	}
+}
